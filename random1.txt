@@ -1,1 +1,2 @@
-This is random 1
+This is random 1;
+Random 2 is deleted
